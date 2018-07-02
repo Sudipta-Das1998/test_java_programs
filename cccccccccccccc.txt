@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>hello 0582</title>
+</head>
+<body bg color"lime">
+<center>
+I am  a boy<br>
+My sister is a girl<br>
+My mother is a boy<br>
+My father is a govt. servant<br>
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu<br>
+sssssssssssssssssssssssssssssssssssssssssssssssss<br>
+<p>
+<img src="f:\PHOTO with DATE.jpg">
+</p>
+</center>
+</body>
+</html> 
